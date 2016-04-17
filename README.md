@@ -4,7 +4,7 @@ QA
 
 
 QB
-output:
+output: <br>
 1 4 <br>
 4 4 <br>
 4 4 <br>
