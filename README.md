@@ -1,9 +1,11 @@
 # lab4
 QA
 
+000000010040110e T average(int, float) <br>
+00000001004010e0 T average(double*, double&)
 
+QB
 
-QB <br>
 output: <br>
 1 4 <br>
 4 4 <br>
